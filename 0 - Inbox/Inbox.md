@@ -1,0 +1,10 @@
+- [ ] Reply to Ollie #PhD 
+- [ ] Ask Martin if diffusion for astronomical data makes sense #Ideas/Leonardo 
+- [ ] Talk to Li about in painting data #Leonardo/IPAdapters
+- [ ] Send Abstract to Ollie #PhD/Abstract
+- [ ] Finish Chapter 3 and send to Ollie #PhD/Chapter3
+- [ ] Write 5 level classification #PhD/Chapter3 
+- [ ] Disentangle the elements of dialogue #PhD/Chapter3 
+- [ ] [[Aesthetic control for Leonardo]] #Ideas/Leonardo 
+- [ ] Talk to JJ about [[Aesthetic control for Leonardo]] #Leonardo/Aesthetic 
+- [ ] [[Dango.fan - Social network to discover music.]] #Ideas/Apps

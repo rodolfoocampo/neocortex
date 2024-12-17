@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"2fc94b65366fbf7b","type":"file","file":"0 - Inbox/Inbox.md","x":-2280,"y":-1420,"width":460,"height":460,"color":"5"},
+		{"id":"3841c8c3c1abd443","type":"file","file":"1 - Ideas/Ideas.md","x":-1820,"y":-1420,"width":500,"height":340,"color":"3"},
+		{"id":"7d97dc04e080bb7e","type":"file","file":"4 - Projects/PhD/PhD.md","x":-2280,"y":-740,"width":420,"height":400},
+		{"id":"b2be5c33041cceac","type":"file","file":"4 - Projects/Leonardo/Leonardo.md","x":-1860,"y":-740,"width":380,"height":400}
+	],
+	"edges":[]
+}

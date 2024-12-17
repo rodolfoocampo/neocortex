@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Home.canvas",
+                "viewState": {
+                  "x": -1800,
+                  "y": -880,
+                  "zoom": -0.7729310914540789
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Home"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "da40802a09110560",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4a9dd01684595f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78a1897da1da6780",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "977b4012256c5552",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cfeede68a08b5a88",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "11cec5d27f1aa4b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "36279f6f1e0447e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "611c60628ef9455f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1- Inbox/Capture.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Capture"
+            }
+          },
+          {
+            "id": "33584308e8ad237d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1- Inbox/Capture.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Capture"
+            }
+          },
+          {
+            "id": "fac4f863e5def540",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e55fe3d7d1029dab",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1- Inbox/Capture.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Capture"
+            }
+          },
+          {
+            "id": "2ff566572dd65a77",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "132096f55c642cb1",
+            "type": "leaf",
+            "state": {
+              "type": "writing-goal",
+              "state": {},
+              "icon": "writing-goals-radar",
+              "title": "Writing goal"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "Home.canvas",
+    "Dialogic Co-Creativity and a role-based analysis/Dialogic Co-Creativity.md",
+    "Abstract/Abstract.md",
+    "Literature Review.md",
+    "Dialogic Co-Creativity and a role-based analysis",
+    "Abstract",
+    "4 - Projects/PhD/Thesis/Chapter 3.md",
+    "4 - Projects/PhD/References.md",
+    "References.bib",
+    "Unconfirmed 184983.crdownload",
+    "4 - Projects/PhD/PhD.md",
+    "1 - Ideas/Ideas.md",
+    "0 - Inbox/Inbox.md",
+    "1 - Ideas/Dango.fan - Social network to discover music..md",
+    "1 - Ideas/Aesthetic control for Leonardo.md",
+    "1 - Ideas/Use Diffusion to Improve Astronomical Imagery.md",
+    "3 - Essays/Essays.md",
+    "2 - Notes/Notes.md",
+    "5 - Research/Research.md",
+    "4 - Projects/Projects.md",
+    "8 - System/ReadMe.md",
+    "4 - Projects/PhD/Thesis",
+    "4 - Projects/Leonardo/Leonardo.md",
+    "4 - Projects/PhD",
+    "4 - Projects/Leonardo",
+    "8 - System",
+    "Use diffusion for astronomical observations.md",
+    "0 - Inbox",
+    "7 - Web",
+    "Welcome.md"
+  ]
+}
