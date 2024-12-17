@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Home.canvas",
-                "viewState": {
-                  "x": -1800,
-                  "y": -880,
-                  "zoom": -0.7729310914540789
-                }
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Home"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -186,10 +183,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "78a1897da1da6780",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "Home.canvas",
+    "Untitled.canvas",
     "Dialogic Co-Creativity and a role-based analysis/Dialogic Co-Creativity.md",
     "Abstract/Abstract.md",
     "Literature Review.md",
@@ -209,7 +206,7 @@
     "2 - Notes/Notes.md",
     "5 - Research/Research.md",
     "4 - Projects/Projects.md",
-    "8 - System/ReadMe.md",
+    "README.md",
     "4 - Projects/PhD/Thesis",
     "4 - Projects/Leonardo/Leonardo.md",
     "4 - Projects/PhD",
